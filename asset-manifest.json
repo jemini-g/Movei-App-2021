@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/movie_app_2021/static/css/main.8e299017.chunk.css",
+    "main.css": "/movie_app_2021/static/css/main.2d6bd328.chunk.css",
     "main.js": "/movie_app_2021/static/js/main.2e3da8eb.chunk.js",
     "main.js.map": "/movie_app_2021/static/js/main.2e3da8eb.chunk.js.map",
     "runtime-main.js": "/movie_app_2021/static/js/runtime-main.03513fb5.js",
@@ -8,14 +8,14 @@
     "static/js/2.95e6a4cb.chunk.js": "/movie_app_2021/static/js/2.95e6a4cb.chunk.js",
     "static/js/2.95e6a4cb.chunk.js.map": "/movie_app_2021/static/js/2.95e6a4cb.chunk.js.map",
     "index.html": "/movie_app_2021/index.html",
-    "static/css/main.8e299017.chunk.css.map": "/movie_app_2021/static/css/main.8e299017.chunk.css.map",
+    "static/css/main.2d6bd328.chunk.css.map": "/movie_app_2021/static/css/main.2d6bd328.chunk.css.map",
     "static/js/2.95e6a4cb.chunk.js.LICENSE.txt": "/movie_app_2021/static/js/2.95e6a4cb.chunk.js.LICENSE.txt",
     "static/media/app.css": "/movie_app_2021/static/media/darkstar.05d18b19.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.03513fb5.js",
     "static/js/2.95e6a4cb.chunk.js",
-    "static/css/main.8e299017.chunk.css",
+    "static/css/main.2d6bd328.chunk.css",
     "static/js/main.2e3da8eb.chunk.js"
   ]
 }
