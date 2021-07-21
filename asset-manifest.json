@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Movid-App_2021/static/css/main.bccf247e.chunk.css",
-    "main.js": "/Movid-App_2021/static/js/main.2e3da8eb.chunk.js",
-    "main.js.map": "/Movid-App_2021/static/js/main.2e3da8eb.chunk.js.map",
-    "runtime-main.js": "/Movid-App_2021/static/js/runtime-main.f79d46d1.js",
-    "runtime-main.js.map": "/Movid-App_2021/static/js/runtime-main.f79d46d1.js.map",
-    "static/js/2.95e6a4cb.chunk.js": "/Movid-App_2021/static/js/2.95e6a4cb.chunk.js",
-    "static/js/2.95e6a4cb.chunk.js.map": "/Movid-App_2021/static/js/2.95e6a4cb.chunk.js.map",
-    "index.html": "/Movid-App_2021/index.html",
-    "static/css/main.bccf247e.chunk.css.map": "/Movid-App_2021/static/css/main.bccf247e.chunk.css.map",
-    "static/js/2.95e6a4cb.chunk.js.LICENSE.txt": "/Movid-App_2021/static/js/2.95e6a4cb.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/Movid-App_2021/static/media/darkstar.05d18b19.jpg"
+    "main.css": "/Movei-App-2021/static/css/main.a01a5f41.chunk.css",
+    "main.js": "/Movei-App-2021/static/js/main.118d53d0.chunk.js",
+    "main.js.map": "/Movei-App-2021/static/js/main.118d53d0.chunk.js.map",
+    "runtime-main.js": "/Movei-App-2021/static/js/runtime-main.8cf347ec.js",
+    "runtime-main.js.map": "/Movei-App-2021/static/js/runtime-main.8cf347ec.js.map",
+    "static/js/2.870995ad.chunk.js": "/Movei-App-2021/static/js/2.870995ad.chunk.js",
+    "static/js/2.870995ad.chunk.js.map": "/Movei-App-2021/static/js/2.870995ad.chunk.js.map",
+    "index.html": "/Movei-App-2021/index.html",
+    "static/css/main.a01a5f41.chunk.css.map": "/Movei-App-2021/static/css/main.a01a5f41.chunk.css.map",
+    "static/js/2.870995ad.chunk.js.LICENSE.txt": "/Movei-App-2021/static/js/2.870995ad.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/Movei-App-2021/static/media/darkstar.05d18b19.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f79d46d1.js",
-    "static/js/2.95e6a4cb.chunk.js",
-    "static/css/main.bccf247e.chunk.css",
-    "static/js/main.2e3da8eb.chunk.js"
+    "static/js/runtime-main.8cf347ec.js",
+    "static/js/2.870995ad.chunk.js",
+    "static/css/main.a01a5f41.chunk.css",
+    "static/js/main.118d53d0.chunk.js"
   ]
 }
