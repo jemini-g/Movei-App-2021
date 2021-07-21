@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Movei-App-2021/static/css/main.a01a5f41.chunk.css",
+    "main.css": "/Movei-App-2021/static/css/main.946a4f13.chunk.css",
     "main.js": "/Movei-App-2021/static/js/main.118d53d0.chunk.js",
     "main.js.map": "/Movei-App-2021/static/js/main.118d53d0.chunk.js.map",
     "runtime-main.js": "/Movei-App-2021/static/js/runtime-main.8cf347ec.js",
@@ -8,14 +8,14 @@
     "static/js/2.870995ad.chunk.js": "/Movei-App-2021/static/js/2.870995ad.chunk.js",
     "static/js/2.870995ad.chunk.js.map": "/Movei-App-2021/static/js/2.870995ad.chunk.js.map",
     "index.html": "/Movei-App-2021/index.html",
-    "static/css/main.a01a5f41.chunk.css.map": "/Movei-App-2021/static/css/main.a01a5f41.chunk.css.map",
+    "static/css/main.946a4f13.chunk.css.map": "/Movei-App-2021/static/css/main.946a4f13.chunk.css.map",
     "static/js/2.870995ad.chunk.js.LICENSE.txt": "/Movei-App-2021/static/js/2.870995ad.chunk.js.LICENSE.txt",
     "static/media/app.css": "/Movei-App-2021/static/media/darkstar.05d18b19.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8cf347ec.js",
     "static/js/2.870995ad.chunk.js",
-    "static/css/main.a01a5f41.chunk.css",
+    "static/css/main.946a4f13.chunk.css",
     "static/js/main.118d53d0.chunk.js"
   ]
 }
